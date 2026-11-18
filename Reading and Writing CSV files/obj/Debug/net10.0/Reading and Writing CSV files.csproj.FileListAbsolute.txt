@@ -1,0 +1,14 @@
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/bin/Debug/net10.0/Reading and Writing CSV files
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/bin/Debug/net10.0/Reading and Writing CSV files.deps.json
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/bin/Debug/net10.0/Reading and Writing CSV files.runtimeconfig.json
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/bin/Debug/net10.0/Reading and Writing CSV files.dll
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/bin/Debug/net10.0/Reading and Writing CSV files.pdb
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/Reading and Writing CSV files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/Reading and Writing CSV files.AssemblyInfoInputs.cache
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/Reading and Writing CSV files.AssemblyInfo.cs
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/Reading and Writing CSV files.csproj.CoreCompileInputs.cache
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/Reading and Writing CSV files.dll
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/refint/Reading and Writing CSV files.dll
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/Reading and Writing CSV files.pdb
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/Reading and Writing CSV files.genruntimeconfig.cache
+/Users/samisandlin/RiderProjects/Reading and Writing CSV files/Reading and Writing CSV files/obj/Debug/net10.0/ref/Reading and Writing CSV files.dll
